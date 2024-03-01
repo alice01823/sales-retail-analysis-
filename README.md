@@ -16,3 +16,13 @@ Sales data: The primary data used for this analysis is the "Retail_Sales.csv" fi
 - Excel
 - Jupyter Notebook
 - PowerBI
+
+### Methodology:
+
+- Data Preprocessing: Cleanse, format, and prepare the data for analysis by handling missing values, outliers, and inconsistencies.
+- Exploratory Data Analysis (EDA): Conduct exploratory analysis to uncover patterns, trends, and relationships within the data using descriptive statistics, visualizations, and correlation analysis.
+- Customer Segmentation: Apply clustering algorithms or segmentation techniques to group customers based on their purchasing behavior and characteristics.
+- Product Performance Analysis: Evaluate the performance of products using metrics such as sales volume, revenue, profitability, and customer feedback.
+- Machine Learning Models: Develop and train machine learning models for sales forecasting, customer churn prediction, or recommendation systems.
+- Business Recommendations: Generate actionable insights and recommendations based on the analysis findings to optimize sales strategies, marketing campaigns, inventory management, and customer engagement initiatives.
+  
