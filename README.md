@@ -11,3 +11,8 @@ The Retail Sales Analysis project aims to provide actionable insights to optimiz
 
 ### Data sources
 Sales data: The primary data used for this analysis is the "Retail_Sales.csv" file, which contains detailed information about each sale made by the company.
+
+### Tools
+- Excel
+- Jupyter Notebook
+- PowerBI
